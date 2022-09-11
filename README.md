@@ -1,1 +1,2 @@
-# roigrad_calculator_firstHomework
+# שיעורי בית 1 - גראד
+ אפליקציה ששסוכמת שני מספרים
